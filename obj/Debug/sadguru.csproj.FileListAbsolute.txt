@@ -1,0 +1,10 @@
+D:\ASP.Net_Project\sadguru\bin\Debug\sadguru.exe.config
+D:\ASP.Net_Project\sadguru\bin\Debug\sadguru.exe
+D:\ASP.Net_Project\sadguru\bin\Debug\sadguru.pdb
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.csproj.AssemblyReference.cache
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.Form1.resources
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.Properties.Resources.resources
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.csproj.GenerateResource.cache
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.csproj.CoreCompileInputs.cache
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.exe
+D:\ASP.Net_Project\sadguru\obj\Debug\sadguru.pdb
